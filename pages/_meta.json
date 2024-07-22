@@ -1,0 +1,11 @@
+{
+  "index": "Introduction",
+  "install": "Installation",
+  "circuit": "Circuit",
+  "contact": {
+    "title": "Dmytro Sapozhnyk",
+    "type": "page",
+    "href": "https://t.me/earlold",
+    "newWindow": true
+  }
+}
