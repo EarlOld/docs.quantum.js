@@ -4,7 +4,7 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>Quantum.js</span>,
   project: {
-    link: 'https://github.com/EarlOld/docs.quantum.js',
+    link: 'https://github.com/EarlOld/quantum.js',
   },
   chat: {
     link: 'https://t.me/iot_sdn',
