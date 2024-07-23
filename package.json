@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start"
   },
-  "repository": "https://github.com/EarlOld/docs.quantum.js",
+  "repository": "https://github.com/EarlOld/quantum.js",
   "author": "EarlOld",
   "license": "MIT",
   "bugs": {
