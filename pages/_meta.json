@@ -1,7 +1,13 @@
 {
-  "index": "Introduction",
-  "install": "Installation",
-  "circuit": "Circuit",
+  "index": {
+    "title": "Introduction"
+  },
+  "circuit": {
+    "title": "Circuit"
+  },
+  "examples": {
+    "title": "Examples"
+  },
   "contact": {
     "title": "Dmytro Sapozhnyk",
     "type": "page",
