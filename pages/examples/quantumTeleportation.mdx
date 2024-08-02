@@ -6,7 +6,7 @@ This example demonstrates how to create a quantum circuit that performs quantum 
 The code snippet below creates a quantum circuit with 3 qubits and applies the quantum teleportation protocol to teleport the state of the first qubit to the third qubit.
 
 ```typescript
-import { Circuit } from './Circuit';
+import { Circuit } from '@earlold/quantum.js';
 
 const circuit = new Circuit(3);
 Circuit.teleportationOneToThree(circuit);
@@ -17,7 +17,7 @@ circuit.print();
 
 1. **Importing the Circuit Class:**
    ```typescript
-   import { Circuit } from './Circuit';
+   import { Circuit } from '@earlold/quantum.js';
    ```
    This line imports the `Circuit` class from the `Circuit` module, which provides the necessary functionality to create and manipulate quantum circuits.
 
@@ -52,7 +52,7 @@ The `Circuit.teleportationOneToThree` method encapsulates these steps, making it
 ### Usage Example
 
 ```typescript
-import { Circuit } from './Circuit';
+import { Circuit } from '@earlold/quantum.js';
 
 const circuit = new Circuit(3);
 Circuit.teleportationOneToThree(circuit);
